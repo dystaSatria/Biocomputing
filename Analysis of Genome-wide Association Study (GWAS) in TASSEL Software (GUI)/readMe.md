@@ -1,7 +1,5 @@
 # Explanation Text
 
-* [Explanation Text (Indonesia Version)](https://www.slideshare.net/RezaDystaSatria/panduan-analisis-genomewide-association-study-gwas-dalam-software-tassel-guipdf)
-<br>
-<br>
+* [Explanation Text (Indonesian Version)](https://www.slideshare.net/RezaDystaSatria/panduan-analisis-genomewide-association-study-gwas-dalam-software-tassel-guipdf)
 
-* Explanation Text (English Version) : https://www.slideshare.net/RezaDystaSatria/genomewide-association-study-gwas-analysis-guide-in-tassel-software-guipdf
+* [Explanation Text (English Version)](https://www.slideshare.net/RezaDystaSatria/genomewide-association-study-gwas-analysis-guide-in-tassel-software-guipdf)
