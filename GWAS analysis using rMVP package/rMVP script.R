@@ -3,6 +3,11 @@
 ################################################################################
 
 
+#install.packages("devtools")
+
+
+#devtools::install_github("xiaolei-lab/rMVP")
+
 
 library(rMVP)
 
