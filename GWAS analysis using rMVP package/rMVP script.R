@@ -3,7 +3,6 @@
 ################################################################################
 
 
-##devtools::install_github("xiaolei-lab/rMVP")
 
 library(rMVP)
 
