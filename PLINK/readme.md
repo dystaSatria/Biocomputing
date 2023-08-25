@@ -24,4 +24,5 @@ Chromosome ID (e.g. Chr1 for Chromosome 1)
 Unique SNP identifier
 Genomic distance (if unknown use 0)
 SNP Position
+
 ```
