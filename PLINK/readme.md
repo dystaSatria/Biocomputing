@@ -4,7 +4,7 @@
 
 * PED file
 
-```
+```hash
 
 Family ID (if unknown use the same id as for the sample id in column two)
 Sample ID
