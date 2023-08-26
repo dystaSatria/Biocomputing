@@ -2,4 +2,4 @@
 
 * Genome
 
-[](https://github.com/dystaSatria/Biocomputing/blob/main/genomeBasic/Rplot01.png)
+![](https://github.com/dystaSatria/Biocomputing/blob/main/genomeBasic/Rplot01.png)
